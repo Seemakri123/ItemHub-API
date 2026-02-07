@@ -40,6 +40,19 @@ org.itemhub.api
 
 ---
 
+## 🌐 Live Demo
+
+Base URL:
+https://itemhub-api-production.up.railway.app
+
+Add Item:
+POST /api/items
+
+Get Item by ID:
+GET /api/items/{id}
+
+---
+
 ## ▶️ How to Run the Application
 
 ### Prerequisites
