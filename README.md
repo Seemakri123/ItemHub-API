@@ -42,8 +42,13 @@ org.itemhub.api
 
 ## 🌐 Live Demo
 
-Base URL:
+### Backend (Railway)
+Base URL:  
 https://itemhub-api-production.up.railway.app
+
+### Frontend UI (Netlify)
+https://serene-platypus-48dd3f.netlify.app
+
 
 Add Item:
 POST /api/items
